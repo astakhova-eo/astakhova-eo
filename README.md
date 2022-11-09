@@ -1,4 +1,4 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
+[![Header]()]()
 ## I'm startinig my career in IT field. 
 ## My CV
 [Link to my CV](https://spb.hh.ru/resume/368baedbff0b6e3c720039ed1f494e69365a55)
@@ -20,7 +20,7 @@
 - [Test-Suites and Test-Cases]()
 - [Bug-Reports]()
 - [SQL Queries](https://github.com/astakhova-eo/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections]()
 
 ### Follow Me
 
